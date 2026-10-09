@@ -21,14 +21,14 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/patigo3d"><img src="assets/patigo.jpg" alt="Patigo"></a>
-      <h3><a href="https://github.com/CodewithFey/patigo3d">Patigo</a></h3>
+      <img src="assets/patigo.jpg" alt="Patigo">
+      <h3>Patigo</h3>
       Adım atmayı oyunlaştıran bir sanal kedi uygulaması. Yürüdükçe PatiCoin kazanıyorsun, kediyi besleyip odasını döşüyorsun. Kedinin ruh hali de o gün ne kadar yürüdüğüne göre değişiyor.
       <br><br><sub>Flutter · Health Connect · three.js</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/tren_focus"><img src="assets/focusline.jpg" alt="Focus Line"></a>
-      <h3><a href="https://github.com/CodewithFey/tren_focus">Focus Line</a></h3>
+      <img src="assets/focusline.jpg" alt="Focus Line">
+      <h3>Focus Line</h3>
       Ders çalışmayı tren yolculuğuna çeviren bir odak sayacı. Gerçek bir hat seçip biletini alıyorsun, yolculuk süresince çalışıyorsun ve tren haritada ilerliyor. Arkadaşlarınla aynı kompartımanda birlikte de çalışabiliyorsun.
       <br><br><sub>Flutter · Hive · Supabase</sub>
     </td>
@@ -41,16 +41,16 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
       <br><br><sub>Vite · Firebase</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/denge"><img src="assets/denge.jpg" alt="Denge"></a>
-      <h3><a href="https://github.com/CodewithFey/denge">Denge</a></h3>
+      <img src="assets/denge.jpg" alt="Denge">
+      <h3>Denge</h3>
       Kişisel bütçe uygulaması. Kredi kartı ekstrelerini ve taksitleri hesaba katıp bu ay gerçekte ne kadar harcayabileceğini gösteriyor.
       <br><br><sub>Flutter · Drift · şifreli SQLite</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/borsa"><img src="assets/borsa.jpg" alt="Borsa Takip"></a>
-      <h3><a href="https://github.com/CodewithFey/borsa">Borsa Takip</a></h3>
+      <img src="assets/borsa.jpg" alt="Borsa Takip">
+      <h3>Borsa Takip</h3>
       BIST hisseleri için izleme listesi, fiyat alarmları ve portföy takibi. RSI, MACD gibi göstergeleri telefonda hesaplayıp hisseler için bir fırsat skoru çıkarıyor.
       <br><br><sub>Flutter · Hive · WorkManager</sub>
     </td>
@@ -70,6 +70,7 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 - [PathMentor](https://github.com/CodewithFey/Bootcamp68-YZTA): YZTA Bootcamp'te CV'den kişisel öğrenme planı çıkaran uygulama
 - [Programlama Dilleri Kavramları notları](https://codewithfey.github.io/Programlama-dili-kavramlari-notlar-/): dersin çıkmış soruları ve konu anlatımları
 - [Uydu Bilgi Uygulaması](https://github.com/CodewithFey/UydularBilgiUygulamasi): Kodluyoruz Hi-Kod 2.0 bitirme projesi
+- [Süpermarket Yönetim Sistemi](https://github.com/CodewithFey/supermarket-yonetim-sistemi): Veritabanı Yönetim Sistemleri dersi için süpermarket zinciri veritabanı ve ER diyagramı
 
 <br>
 
