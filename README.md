@@ -10,7 +10,9 @@
 
 <br>
 
-Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğunlukla Flutter ile mobil uygulama yazıyorum, arada web siteleri ve Unity'de oyunlar da yapıyorum. [PIAV Studio](https://piav.com.tr/)'yu Yusuf Tarlak'la birlikte yürütüyoruz.
+Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğunlukla Flutter ile mobil uygulama yazıyorum; arada web siteleri ve Unity'de oyunlar da yapıyorum. Bir fikri baştan sona, insanların gerçekten kullanabileceği bir ürüne çevirmeyi seviyorum.
+
+[PIAV Studio](https://piav.com.tr/)'yu Yusuf Tarlak'la birlikte yürütüyoruz. Kan Kardeşim, Patigo ve Focus Line oradan çıkan projeler.
 
 <br>
 
@@ -21,13 +23,13 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
     <td width="50%" valign="top">
       <a href="https://github.com/CodewithFey/patigo3d"><img src="assets/patigo.jpg" alt="Patigo"></a>
       <h3><a href="https://github.com/CodewithFey/patigo3d">Patigo</a></h3>
-      Yürüdükçe mutlu olan bir sanal kedi. Adımlar coin'e, coin'ler kedinin odasına dönüşüyor.
+      Adım atmayı oyunlaştıran bir sanal kedi uygulaması. Yürüdükçe PatiCoin kazanıyorsun, kediyi besleyip odasını döşüyorsun. Kedinin ruh hali de o gün ne kadar yürüdüğüne göre değişiyor.
       <br><br><sub>Flutter · Health Connect · three.js</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CodewithFey/tren_focus"><img src="assets/focusline.jpg" alt="Focus Line"></a>
       <h3><a href="https://github.com/CodewithFey/tren_focus">Focus Line</a></h3>
-      Gerçek tren hatlarının süresi kadar odaklandığın bir çalışma sayacı. Arkadaşlarınla aynı kompartımanda da çalışabiliyorsun.
+      Ders çalışmayı tren yolculuğuna çeviren bir odak sayacı. Gerçek bir hat seçip biletini alıyorsun, yolculuk süresince çalışıyorsun ve tren haritada ilerliyor. Arkadaşlarınla aynı kompartımanda birlikte de çalışabiliyorsun.
       <br><br><sub>Flutter · Hive · Supabase</sub>
     </td>
   </tr>
@@ -35,13 +37,13 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
     <td width="50%" valign="top">
       <a href="https://kankardesim.org.tr/#home"><img src="assets/kankardesim.jpg" alt="Kan Kardeşim"></a>
       <h3><a href="https://kankardesim.org.tr/#home">Kan Kardeşim</a></h3>
-      Acil kan ihtiyacı ilanlarını gönüllü bağışçılarla buluşturan platform. Yusuf Tarlak'la birlikte yürütüyoruz.
+      Acil kan ihtiyacı olanlarla gönüllü bağışçıları buluşturan sosyal sorumluluk platformu. İlanlar herkese açık, iletişim bilgileri yalnızca doğrulanmış üyelere görünüyor. Yusuf Tarlak'la birlikte yürütüyoruz.
       <br><br><sub>Vite · Firebase</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CodewithFey/denge"><img src="assets/denge.svg" alt="Denge"></a>
       <h3><a href="https://github.com/CodewithFey/denge">Denge</a></h3>
-      Kredi kartı borcunu da hesaba katıp bu ay gerçekte ne kadar harcayabileceğini gösteren bütçe uygulaması.
+      Kişisel bütçe uygulaması. Kredi kartı ekstrelerini ve taksitleri hesaba katıp bu ay gerçekte ne kadar harcayabileceğini gösteriyor. Veriler telefonda, şifreli olarak duruyor.
       <br><br><sub>Flutter · Drift · şifreli SQLite</sub>
     </td>
   </tr>
@@ -49,19 +51,25 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
     <td width="50%" valign="top">
       <a href="https://github.com/CodewithFey/borsa"><img src="assets/borsa.svg" alt="Borsa Takip"></a>
       <h3><a href="https://github.com/CodewithFey/borsa">Borsa Takip</a></h3>
-      BIST hisseleri için alarm, portföy ve teknik gösterge takibi.
+      BIST hisseleri için izleme listesi, fiyat alarmları ve portföy takibi. RSI, MACD gibi göstergeleri telefonda hesaplayıp hisseler için bir fırsat skoru çıkarıyor.
       <br><br><sub>Flutter · Hive · WorkManager</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://batmandogalsut.com.tr/"><img src="assets/batman.jpg" alt="Batman Doğal Süt"></a>
       <h3><a href="https://batmandogalsut.com.tr/">Batman Doğal Süt</a></h3>
-      Güneş Gıda için yaptığım, siparişleri WhatsApp üzerinden alan site.
+      Batman'daki Güneş Gıda için yaptığım sipariş sitesi. Müşteri sepeti doldurup siparişini WhatsApp'tan gönderiyor; üyelik ve yönetim paneli de var.
       <br><br><sub>HTML · CSS · JavaScript · Firebase</sub>
     </td>
   </tr>
 </table>
 
-**Diğerleri:** [PIAV Studio](https://piav.com.tr/) · [PIAV Tools](https://piav.com.tr/piavtools) · [The Last Valley](https://github.com/CodewithFey/TheLastValley-OUA) · [PathMentor](https://github.com/CodewithFey/Bootcamp68-YZTA) · [Programlama Dilleri Kavramları notları](https://codewithfey.github.io/Programlama-dili-kavramlari-notlar-/) · [Uydu Bilgi Uygulaması](https://github.com/CodewithFey/UydularBilgiUygulamasi)
+### Diğerleri
+
+- [PIAV Tools](https://piav.com.tr/piavtools): tarayıcıda çalışan PDF ve QR araçları
+- [The Last Valley](https://github.com/CodewithFey/TheLastValley-OUA): Oyun ve Uygulama Akademisi'nde 5 kişilik ekiple Unity'de yaptığımız 3D co-op RPG
+- [PathMentor](https://github.com/CodewithFey/Bootcamp68-YZTA): YZTA Bootcamp'te CV'den kişisel öğrenme planı çıkaran uygulama
+- [Programlama Dilleri Kavramları notları](https://codewithfey.github.io/Programlama-dili-kavramlari-notlar-/): dersin çıkmış soruları ve konu anlatımları
+- [Uydu Bilgi Uygulaması](https://github.com/CodewithFey/UydularBilgiUygulamasi): Kodluyoruz Hi-Kod 2.0 bitirme projesi
 
 <br>
 
