@@ -5,7 +5,7 @@
 
 Merhaba, ben Feyza. Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıftayım.
 
-En çok, insanların zaten yapmaya çalıştığı şeyleri biraz daha keyifli hale getiren uygulamalar yapmayı seviyorum. Yürüdükçe keyfi yerine gelen bir kedi ya da ders çalıştıkça Ankara'dan Eskişehir'e ilerleyen bir tren gibi. Bu ürünleri [PIAV Studio](https://piav.com.tr) adıyla Yusuf Tarlak'la birlikte yayınlıyoruz.
+Mobil uygulamalar, web siteleri ve arada oyunlar yapıyorum. Aklıma gelen bir fikri baştan sona çalışan bir ürüne çevirmeyi seviyorum; bunların bir kısmını [PIAV Studio](https://piav.com.tr) adıyla Yusuf Tarlak'la birlikte yayınlıyoruz.
 
 Son bir yıldır çoğunlukla Flutter ile mobil uygulama yazıyorum. Vaktimin büyük kısmı ekranda görünmeyen yerlere gidiyor: telefon adım sayarı arka planda kapatmasın, seri gece yarısı bozulmasın, veritabanı şifreli kalsın gibi. Bu dönem yapay zekâ ve veri tarafına daha çok zaman ayırıyorum.
 
@@ -62,12 +62,14 @@ Son bir yıldır çoğunlukla Flutter ile mobil uygulama yazıyorum. Vaktimin b�
 - [Programlama Dilleri Kavramları notları](https://codewithfey.github.io/Programlama-dili-kavramlari-notlar-/): dersin çıkmış sorularını ve konu anlatımlarını topladığım çalışma sitesi
 - [PathMentor](https://github.com/CodewithFey/Bootcamp68-YZTA): YZTA Bootcamp'te 5 kişilik ekiple yaptığımız, CV'den kişisel öğrenme planı çıkaran uygulama (Scrum Master'dım)
 - [Uydu Bilgi Uygulaması](https://github.com/CodewithFey/UydularBilgiUygulamasi): Kodluyoruz Hi-Kod 2.0 bitirme projesi, Türk uyduları ve quiz
+- [The Last Valley](https://github.com/CodewithFey/TheLastValley-OUA): Oyun ve Uygulama Akademisi'nde 5 kişilik ekiple Unity'de yaptığımız 3D, çok oyunculu bir RPG (Scrum Master'dım, [tanıtım videosu](https://www.youtube.com/watch?v=M78SxntTY2c))
 - [AnkaraJam](https://github.com/CodewithFey/AnkaraJam): game jam'de ekiple Unity'de yaptığımız 2D oyun
 
 ## Yarışmalar ve programlar
 
 - **YZTA Datathon 2025:** Kaggle üzerinde market verisinden ürün fiyatı tahmini. Grup-11 olarak 136 takım arasında 4. olduk. [Final sıralaması](assets/datathon-siralama.png) (yarışma sayfası gizli olduğu için ekran görüntüsü)
 - **Yapay Zeka ve Teknoloji Akademisi (YZTA) Bootcamp:** PathMentor ekibinde Scrum Master
+- **Oyun ve Uygulama Akademisi (OUA):** The Last Valley ekibinde Scrum Master
 - **Kodluyoruz Hi-Kod 2.0:** Flutter bootcamp'i, bitirme projesi
 - **Global AI Hub:** Python eğitimi, proje olarak [kütüphane yönetim sistemi](https://github.com/CodewithFey/LMS)
 
