@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/elif-feyza-gunes"><img src="assets/pill-linkedin.svg" height="34" alt="LinkedIn"></a> <a href="mailto:feyzagnssss@gmail.com"><img src="assets/pill-eposta.svg" height="34" alt="E-posta"></a> <a href="https://piav.com.tr/"><img src="assets/pill-piav.svg" height="34" alt="PIAV Studio"></a> <a href="https://www.instagram.com/piavstudio/"><img src="assets/pill-instagram.svg" height="34" alt="Instagram"></a>
+<a href="https://linkedin.com/in/elif-feyza-gunes"><img src="https://img.shields.io/badge/LinkedIn-7B93B8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:feyzagnssss@gmail.com"><img src="https://img.shields.io/badge/E--posta-B98394?style=flat&logo=gmail&logoColor=white" alt="E-posta"></a> <a href="https://piav.com.tr/"><img src="https://img.shields.io/badge/PIAV_Studio-9389AE?style=flat" alt="PIAV Studio"></a> <a href="https://www.instagram.com/piavstudio/"><img src="https://img.shields.io/badge/Instagram-BD8F7A?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 </div>
 
@@ -21,13 +21,13 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/patigo.jpg" alt="Patigo">
+      <img src="assets/cards/patigo.webp" alt="Patigo">
       <h3>Patigo</h3>
       Adım atmayı oyunlaştıran bir sanal kedi uygulaması. Yürüdükçe PatiCoin kazanıyorsun, kediyi besleyip odasını döşüyorsun. Kedinin ruh hali de o gün ne kadar yürüdüğüne göre değişiyor.
       <br><br><sub>Flutter · Health Connect · three.js</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/focusline.jpg" alt="Focus Line">
+      <img src="assets/cards/focusline.webp" alt="Focus Line">
       <h3>Focus Line</h3>
       Ders çalışmayı tren yolculuğuna çeviren bir odak sayacı. Gerçek bir hat seçip biletini alıyorsun, yolculuk süresince çalışıyorsun ve tren haritada ilerliyor. Arkadaşlarınla aynı kompartımanda birlikte de çalışabiliyorsun.
       <br><br><sub>Flutter · Hive · Supabase</sub>
@@ -35,13 +35,13 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://kankardesim.org.tr/#home"><img src="assets/kankardesim.jpg" alt="Kan Kardeşim"></a>
-      <h3><a href="https://kankardesim.org.tr/#home">Kan Kardeşim</a></h3>
+      <a href="https://kankardesim.org.tr/#home"><img src="assets/cards/kankardesim.webp" alt="Kan Kardeşim"></a>
+      <h3>Kan Kardeşim</h3>
       Acil kan ihtiyacı olanlarla gönüllü bağışçıları buluşturan sosyal sorumluluk platformu. Yusuf Tarlak'la birlikte yürütüyoruz.
-      <br><br><sub>Vite · Firebase</sub>
+      <br><br><sub>Vite · Firebase · <a href="https://kankardesim.org.tr/#home">kankardesim.org.tr</a></sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/denge.jpg" alt="Denge">
+      <img src="assets/cards/denge.webp" alt="Denge">
       <h3>Denge</h3>
       Kişisel bütçe uygulaması. Kredi kartı ekstrelerini ve taksitleri hesaba katıp bu ay gerçekte ne kadar harcayabileceğini gösteriyor.
       <br><br><sub>Flutter · Drift · şifreli SQLite</sub>
@@ -49,16 +49,16 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/borsa.jpg" alt="Borsa Takip">
+      <img src="assets/cards/borsa.webp" alt="Borsa Takip">
       <h3>Borsa Takip</h3>
       BIST hisseleri için izleme listesi, fiyat alarmları ve portföy takibi. RSI, MACD gibi göstergeleri telefonda hesaplayıp hisseler için bir fırsat skoru çıkarıyor.
       <br><br><sub>Flutter · Hive · WorkManager</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/TheLastValley-OUA"><img src="assets/thelastvalley.jpg" alt="The Last Valley"></a>
-      <h3><a href="https://github.com/CodewithFey/TheLastValley-OUA">The Last Valley</a></h3>
+      <a href="https://github.com/CodewithFey/TheLastValley-OUA"><img src="assets/cards/thelastvalley.webp" alt="The Last Valley"></a>
+      <h3>The Last Valley</h3>
       Oyun ve Uygulama Akademisi'nde 5 kişilik ekiple bir ayda yaptığımız 3D, çok oyunculu bir RPG. Savaşçı, okçu ve büyücü sınıflarıyla birlikte vadinin lanetini kaldırmaya çalışıyorsunuz. Ekipte Scrum Master'dım.
-      <br><br><sub>Unity · C# · <a href="https://www.youtube.com/watch?v=M78SxntTY2c">tanıtım videosu</a></sub>
+      <br><br><sub>Unity · C# · <a href="https://github.com/CodewithFey/TheLastValley-OUA">GitHub</a> · <a href="https://www.youtube.com/watch?v=M78SxntTY2c">tanıtım videosu</a></sub>
     </td>
   </tr>
 </table>
