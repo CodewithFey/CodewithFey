@@ -10,7 +10,7 @@
 
 <br>
 
-Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğunlukla Flutter ile mobil uygulama yazıyorum; arada web siteleri ve Unity'de oyunlar da yapıyorum. Bir fikri baştan sona, insanların gerçekten kullanabileceği bir ürüne çevirmeyi seviyorum.
+Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğunlukla Flutter ile mobil uygulama yazıyorum; arada web siteleri ve Unity'de oyunlar da yapıyorum.
 
 [PIAV Studio](https://piav.com.tr/)'yu Yusuf Tarlak'la birlikte yürütüyoruz. Kan Kardeşim, Patigo ve Focus Line oradan çıkan projeler.
 
@@ -37,19 +37,19 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
     <td width="50%" valign="top">
       <a href="https://kankardesim.org.tr/#home"><img src="assets/kankardesim.jpg" alt="Kan Kardeşim"></a>
       <h3><a href="https://kankardesim.org.tr/#home">Kan Kardeşim</a></h3>
-      Acil kan ihtiyacı olanlarla gönüllü bağışçıları buluşturan sosyal sorumluluk platformu. İlanlar herkese açık, iletişim bilgileri yalnızca doğrulanmış üyelere görünüyor. Yusuf Tarlak'la birlikte yürütüyoruz.
+      Acil kan ihtiyacı olanlarla gönüllü bağışçıları buluşturan sosyal sorumluluk platformu. Yusuf Tarlak'la birlikte yürütüyoruz.
       <br><br><sub>Vite · Firebase</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/denge"><img src="assets/denge.svg" alt="Denge"></a>
+      <a href="https://github.com/CodewithFey/denge"><img src="assets/denge.jpg" alt="Denge"></a>
       <h3><a href="https://github.com/CodewithFey/denge">Denge</a></h3>
-      Kişisel bütçe uygulaması. Kredi kartı ekstrelerini ve taksitleri hesaba katıp bu ay gerçekte ne kadar harcayabileceğini gösteriyor. Veriler telefonda, şifreli olarak duruyor.
+      Kişisel bütçe uygulaması. Kredi kartı ekstrelerini ve taksitleri hesaba katıp bu ay gerçekte ne kadar harcayabileceğini gösteriyor.
       <br><br><sub>Flutter · Drift · şifreli SQLite</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/CodewithFey/borsa"><img src="assets/borsa.svg" alt="Borsa Takip"></a>
+      <a href="https://github.com/CodewithFey/borsa"><img src="assets/borsa.jpg" alt="Borsa Takip"></a>
       <h3><a href="https://github.com/CodewithFey/borsa">Borsa Takip</a></h3>
       BIST hisseleri için izleme listesi, fiyat alarmları ve portföy takibi. RSI, MACD gibi göstergeleri telefonda hesaplayıp hisseler için bir fırsat skoru çıkarıyor.
       <br><br><sub>Flutter · Hive · WorkManager</sub>
