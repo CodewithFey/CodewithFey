@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/elif-feyza-gunes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:feyzagnssss@gmail.com"><img src="https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"></a> <a href="https://piav.com.tr/"><img src="https://img.shields.io/badge/PIAV_Studio-111111?style=for-the-badge&logoColor=white" alt="PIAV Studio"></a> <a href="https://www.instagram.com/piavstudio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://linkedin.com/in/elif-feyza-gunes"><img src="assets/pill-linkedin.svg" height="34" alt="LinkedIn"></a> <a href="mailto:feyzagnssss@gmail.com"><img src="assets/pill-eposta.svg" height="34" alt="E-posta"></a> <a href="https://piav.com.tr/"><img src="assets/pill-piav.svg" height="34" alt="PIAV Studio"></a> <a href="https://www.instagram.com/piavstudio/"><img src="assets/pill-instagram.svg" height="34" alt="Instagram"></a>
 
 </div>
 
