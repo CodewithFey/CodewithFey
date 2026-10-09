@@ -12,7 +12,6 @@
 
 Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğunlukla Flutter ile mobil uygulama yazıyorum; arada web siteleri ve Unity'de oyunlar da yapıyorum.
 
-[PIAV Studio](https://piav.com.tr/)'yu Yusuf Tarlak'la birlikte yürütüyoruz.
 <br>
 
 ## Projeler
