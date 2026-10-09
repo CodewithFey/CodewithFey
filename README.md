@@ -55,10 +55,10 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
       <br><br><sub>Flutter · Hive · WorkManager</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://batmandogalsut.com.tr/"><img src="assets/batman.jpg" alt="Batman Doğal Süt"></a>
-      <h3><a href="https://batmandogalsut.com.tr/">Batman Doğal Süt</a></h3>
-      Batman'daki Güneş Gıda için yaptığım sipariş sitesi. Müşteri sepeti doldurup siparişini WhatsApp'tan gönderiyor; üyelik ve yönetim paneli de var.
-      <br><br><sub>HTML · CSS · JavaScript · Firebase</sub>
+      <a href="https://github.com/CodewithFey/TheLastValley-OUA"><img src="assets/thelastvalley.jpg" alt="The Last Valley"></a>
+      <h3><a href="https://github.com/CodewithFey/TheLastValley-OUA">The Last Valley</a></h3>
+      Oyun ve Uygulama Akademisi'nde 5 kişilik ekiple bir ayda yaptığımız 3D, çok oyunculu bir RPG. Savaşçı, okçu ve büyücü sınıflarıyla birlikte vadinin lanetini kaldırmaya çalışıyorsunuz. Ekipte Scrum Master'dım.
+      <br><br><sub>Unity · C# · <a href="https://www.youtube.com/watch?v=M78SxntTY2c">tanıtım videosu</a></sub>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 ### Diğerleri
 
 - [PIAV Tools](https://piav.com.tr/piavtools): tarayıcıda çalışan PDF ve QR araçları
-- [The Last Valley](https://github.com/CodewithFey/TheLastValley-OUA): Oyun ve Uygulama Akademisi'nde 5 kişilik ekiple Unity'de yaptığımız 3D co-op RPG
+- [Pyrachild](https://github.com/CodewithFey/pyrachild): OUA Game Jam'de 48 saatte ekiple yaptığımız aksiyon oyunu
 - [PathMentor](https://github.com/CodewithFey/Bootcamp68-YZTA): YZTA Bootcamp'te CV'den kişisel öğrenme planı çıkaran uygulama
 - [Programlama Dilleri Kavramları notları](https://codewithfey.github.io/Programlama-dili-kavramlari-notlar-/): dersin çıkmış soruları ve konu anlatımları
 - [Uydu Bilgi Uygulaması](https://github.com/CodewithFey/UydularBilgiUygulamasi): Kodluyoruz Hi-Kod 2.0 bitirme projesi
@@ -75,6 +75,8 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 
 ## Deneyim
 
+**DenizBank** · Stajyer, Denizaşırı Online Staj Programı (2024)
+
 **Yapay Zeka ve Teknoloji Akademisi**
 - Tutor: yeni katılımcıların programa alışmasına yardım ettim, online bir buluşmada sorularını yanıtladım
 - Bootcamp: PathMentor ekibinde Scrum Master
@@ -82,9 +84,16 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 
 **GİRVAK** · Challenger, 2025–2026
 
-**Oyun ve Uygulama Akademisi** · The Last Valley ekibinde Scrum Master
+**Oyun ve Uygulama Akademisi** · Trainee; The Last Valley ve Pyrachild ekiplerinde
 
-**Kodluyoruz Hi-Kod 2.0** · Flutter &nbsp;&nbsp; **Global AI Hub** · Python
+**Kodluyoruz Hi-Kod 2.0** · Flutter &nbsp;&nbsp; **Global AI Hub** · Akbank Python Bootcamp
+
+### Topluluklar
+
+- **Ankara University Computer Society** · Yönetim kurulu üyesi
+- **Hacettepe Üniversitesi Yapay Zeka Topluluğu** · Eğitim koordinatörü, kurumsal ilişkiler
+- **ACM Hacettepe** · Teknik etkinlik ekibi
+- **Etkin Kampüs** · Kampüs temsilcisi
 
 <br>
 
