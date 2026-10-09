@@ -93,7 +93,6 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 - **Ankara University Computer Society** · Yönetim kurulu üyesi
 - **Hacettepe Üniversitesi Yapay Zeka Topluluğu** · Eğitim koordinatörü, kurumsal ilişkiler
 - **ACM Hacettepe** · Teknik etkinlik ekibi
-- **Etkin Kampüs** · Kampüs temsilcisi
 
 <br>
 
