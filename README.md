@@ -19,10 +19,10 @@ Ankara Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Çoğu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/cards/patigo.webp" alt="Patigo">
-      <h3>Patigo</h3>
-      Adım atmayı oyunlaştıran bir sanal kedi uygulaması. Yürüdükçe PatiCoin kazanıyorsun, kediyi besleyip odasını döşüyorsun. Kedinin ruh hali de o gün ne kadar yürüdüğüne göre değişiyor.
-      <br><br><sub>Flutter · Health Connect · three.js</sub>
+      <a href="https://github.com/CodewithFey/IOS-BLM4587-ad-msayarprojesi"><img src="assets/cards/adimsayar.webp" alt="Adım Sayar"></a>
+      <h3>Adım Sayar</h3>
+      BLM4587 iOS Programlama dersi için geliştirdiğim adım sayar uygulaması. Geliştirme aşamasında.
+      <br><br><sub><a href="https://github.com/CodewithFey/IOS-BLM4587-ad-msayarprojesi">GitHub</a></sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/cards/focusline.webp" alt="Focus Line">
